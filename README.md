@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Filip 👋
+
+- 🔭 Working as a Mechanical Engineer in the Nuclear Industry
+- ⚡ Interested in: Artificial Intelligence, Machine Learning & Deep Learning, Data Science, Cloud Computing, Blockchain, web Development
+- 🌱 Currently learning React, Next.js, Solidity, Docker & Kubernetes
+- 📫 Contact me: domovic.filip@gmail.com
 
 <!--
 **filipdomkc/filipdomkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
