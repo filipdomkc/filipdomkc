@@ -2,7 +2,6 @@
 <h3 align="center">Working as a Mechanical Engineer in the Nuclear Industry and self-taught programmer</h3>
 
 - ⚡ Interested in: Artificial Intelligence, Machine Learning & Deep Learning, Data Science, Cloud Computing, Blockchain, web Development
-- 🌱 Currently learning React, Next.js, Solidity, Docker & Kubernetes
 - 📫 Contact me: domovic.filip@gmail.com
 
 <h3 align="left">Connect with me:</h3>
